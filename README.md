@@ -26,7 +26,6 @@
 ### str/arr
 ---------
 ## call by reference VS call by value
----------
     #define _CRT_SECURE_NO_WARNINGS
     #include <stdio.h>
     int main() {
